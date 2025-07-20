@@ -75,8 +75,3 @@ if st.button("🚀 Predict Health Score"):
     st.success(f"Predicted Health Score: {score:.2f} / 100")
 """
 
-# Save the app.py file for user to download or view
-with open("/mnt/data/app.py", "w") as f:
-    f.write(app_py_content)
-
-"/mnt/data/app.py"
