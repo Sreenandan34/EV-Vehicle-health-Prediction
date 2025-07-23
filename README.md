@@ -51,6 +51,9 @@ This system helps EV startups and fleet operators:
 
 You can run the project by uploading the dataset and executing the model notebook or script. It will ask for input values or take them from the sheet and return the predicted health score along with insights if the vehicle condition is degraded.
 
+🚀 [Live Demo on Streamlit](https://ev-vehicle-health-prediction-fyrou78hmu2jakupvv5gbs.streamlit.app)
+
+
 
 
 
